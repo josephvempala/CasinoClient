@@ -1,0 +1,32 @@
+.Navbar{
+    display: flex;
+    position: relative;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: chocolate;
+    height: 50px;
+    align-items: center;
+}
+.user-icon{
+    display: flex;
+    appearance: auto;
+    margin-right: 10px;
+    padding: 5px;
+    border: none;
+    background: none;
+    border-radius: 3px;
+    margin-left: auto;
+}
+.user-icon:hover{
+    background-color: darkgoldenrod;
+    border: 1px solid orange;
+    padding: 4px;
+}
+.img{
+    border-radius: 50%;
+    height: 32px;
+    width: 32px;
+    margin-right: 10px;
+    background-color: crimson;
+}
